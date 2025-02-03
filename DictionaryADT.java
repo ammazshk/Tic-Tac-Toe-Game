@@ -1,5 +1,4 @@
 
-/* Description of these methods is given in the assignment */
 public interface DictionaryADT {
     
 	public int put (Data pair) throws DictionaryException;
